@@ -1,4 +1,7 @@
 language: node_js
+arch:
+  - AMD64
+  - ppc64le
 sudo: false
 node_js:
   - "0.10"
